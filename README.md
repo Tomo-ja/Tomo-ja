@@ -1,7 +1,7 @@
 # <div align="center">Hi, I'm Tomonao Hashiguchi 👋</div>  
 
 <div align="center">
-<img src="https://github.com/Tomo-ja/Tomo-ja/blob/main/Header-Image.png" align="center" style="width: 100%" />
+<img src="https://github.com/Tomo-ja/Tomo-ja/blob/main/Readme_header_image.png" align="center" style="width: 100%" />
 </div>  
 
 - 🧑‍🎓 I’m currently studying at [Cornerstone College](https://ciccc.ca/)  
@@ -49,10 +49,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tomo-ja&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomo-ja&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</div> 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomo-ja&hide_border=true&layout=compact" align="left" />  
+<div align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomo-ja&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</div>
 
-<br/>  
 
-----
+
