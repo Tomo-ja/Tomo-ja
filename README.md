@@ -1,8 +1,12 @@
 # <div align="center">Hi, I'm Tomonao Hashiguchi 👋</div>  
+<br/>  
 
 <div align="center">
 <img src="https://github.com/Tomo-ja/Tomo-ja/blob/main/Readme_header_image.png" align="center" style="width: 100%" />
 </div>  
+
+<br/>  
+<br/>  
 
 - 🧑‍🎓 I’m currently studying at [Cornerstone College](https://ciccc.ca/)  
   
@@ -19,7 +23,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Languages & Other Tools:  
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -33,10 +37,9 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rails-original-wordmark.svg" alt="Ruby on Rails" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
@@ -49,9 +52,20 @@
 
 
 ## Github Stats  
-<div align="left">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tomo-ja&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</div> 
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Tomo-ja&theme=algolia&show_icons=true" />
+  </a>
+</div> 
 
-<div align="left">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomo-ja&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)</div>
+<div align="left">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tomo-ja&theme=algolia&show_icons=true" />
+  </a>
+</div>
 
 
+<br/>  
+
+<br/>  
 
