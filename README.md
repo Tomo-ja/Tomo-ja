@@ -17,7 +17,7 @@
 - 💻 All of my projects are available on [my portfolio website](https://portfolio-two-kohl-13.vercel.app/)  
   
 
-- 📄 Know about my experiences on [LinkedIn](http://example/com)  
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/Tomonao/)  
   
 
 <br/>  
