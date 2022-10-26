@@ -11,7 +11,7 @@
 - 🧑‍🎓 I’m currently studying at [Cornerstone College](https://ciccc.ca/)  
   
 
-- 📫 How to reach me [tomonao.gmail.com](mailto:tomonao.hj@gmail.com)  
+- 📫 How to reach me [tomonao.hj@gmail.com](mailto:tomonao.hj@gmail.com)  
   
 
 - 💻 All of my projects are available on [my portfolio website](https://portfolio-two-kohl-13.vercel.app/)  
